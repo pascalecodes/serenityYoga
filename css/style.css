@@ -100,10 +100,12 @@ main a{
   color: lightgrey;
   font-weight: lighter;
   padding: 30px;
+  
 }
 main img{
   height: 300px;
   width: 600px;
+  border:rgb(236, 244, 11) solid 10px;
 }
 
 .why{
