@@ -23,14 +23,11 @@
 
 body {
   color: #fff;
-  /* background-image: url('/Users/pdelaunalab/Desktop/Projects/portfolioWebsites/SerenityYoga/images/backgroundyoga.jpg');
-  background-size:inherit;
-  background-repeat: no-repeat; */
   text-decoration:solid;
   text-decoration-color: rgb(236, 244, 11);
 }
 html{
-  background-image: url('/Users/pdelaunalab/Desktop/Projects/portfolioWebsites/SerenityYoga/images/visitgym.jpg');
+  background-image: url('/images/visitgym.jpg');
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center;
@@ -84,18 +81,14 @@ header > a{
 main {
   height: 25%;
   width: 100%;
-  /* background: rgb(102, 118, 138); */
   padding:0;
   text-align: center;
-  /* background-image:
-   url('Big Background Image'), position[bottom] ; */
-   
+ 
 }
 main h1{
   font-family: 'Roboto' serif;
   font-size: 65px;
   font-weight: 300;
-  /* color: white; */
   color: rgb(255, 154, 159);
 }
 main p{
@@ -115,7 +108,6 @@ main img{
 
 .why{
   height: 15%;
-  /* background: white; */
   font-family: 'Roboto' sans-serif;
   text-align: center;
   padding: 6% 25%;
@@ -131,7 +123,6 @@ main img{
 .visit {
   height: 28%;
   font-family: 'Roboto' sans-serif;
-  /* background-color: rgb(199, 202, 205); */
   text-align: center;
   padding: 12% 10%;
   width: 100%;
@@ -139,15 +130,6 @@ main img{
   background-color: rgba(255, 154, 159,0.4);
   
 }
-/* .visit img{ */
-  /* background: rgb(102, 118, 138);
-  padding: 20% 35%;
-  height: 2rem;
-  width: 5rem; */
-  /* background-image: url('play.png');
-  background-position: right center;
-  background-size: cover; */
-/* } */
 
 #seeClass img{
   height: 30rem;
@@ -187,7 +169,6 @@ main img{
 .schedule{
   height: 22%;
   font-family: 'Roboto' sans-serif;
-  /* background-color: white; */
   width: 100%;
   padding: 7% 18%;
   float: left;
@@ -198,7 +179,6 @@ main img{
   font-family: 'Roboto' sans-serif;
   color: rgb(255, 154, 159);
   text-shadow: rgb(22,31,42);
-  /* text-decoration: solid rgb(22,31,42) 3px; */
 }
 .schedule p{
   font-size: 18px;
